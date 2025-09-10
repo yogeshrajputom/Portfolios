@@ -24,7 +24,7 @@ const About = () => {
                         <p className="text-base sm:text-lg md:text-lg text-gray-200 mb-10 mt-8 leading-relaxed">
                             I am a Full-Stack Developer skilled in both Front-End and Back-End development. I leverage modern technologies to build seamless user experiences and efficient solutions. Passionate about coding and web development, I constantly strive to learn, improve, and create impactful digital products.
                         </p>
-                        <a href="https://drive.google.com/file/d/1D0wxvL1BPFg3nMSXHZ31bGcHI-moaSWT/view?usp=sharing"
+                        <a href="https://drive.google.com/file/d/1luBgC41NXyOArTIeagJ9Vim_SDs5et5M/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-block text-white py-3 px-10 rounded-full mt-1 text-lg font-bold transition duration-300 transform hover:scale-115"
